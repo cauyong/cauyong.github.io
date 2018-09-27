@@ -42,7 +42,3 @@ h1 {
 	color: rgba(89, 148, 89, 0.8);
 	border: 3px solid rgba(89, 148, 89, 0.8);
 }
-
-.btn-primary:focus {
-	outline: 0;
-}
