@@ -43,6 +43,6 @@ h1 {
 	border: 3px solid rgba(89, 148, 89, 0.8);
 }
 
-#mc_embed_signup input {
+#mc_embed_signup:hover input {
     border: 3px solid rgba(89, 148, 89, 0.8);
 }
